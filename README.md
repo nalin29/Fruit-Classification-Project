@@ -6,6 +6,7 @@ Ultimately the best model was a transfer learning model based on pretrained weig
 Link to model Files: <url>https://drive.google.com/file/d/1NQjai2o9rIqRwpoV6iCJ8sOamJs0_K1e/view?usp=sharing</url>
 
 ## Custom CNN Model
+This model has 4 convolutional layers and 2 fully connected layers. The fully connected layers implement dropout as a method of regularization.
 
 ### Confusion Matrix as well as score on dataset:
 
@@ -14,7 +15,7 @@ Link to model Files: <url>https://drive.google.com/file/d/1NQjai2o9rIqRwpoV6iCJ8
 
 ### Loss and Accuracy Per Epoch:
 
-![Alt text](Images/data_plot1.png?raw=true "Loss and Accuracy Graphs: ")
+![Alt text](Images/plot_data1.png?raw=true "Loss and Accuracy Graphs: ")
 
 ### Test Image Batch:
 
