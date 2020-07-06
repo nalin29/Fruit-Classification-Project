@@ -6,6 +6,17 @@ Ultimately the best model was a transfer learning model based on pretrained weig
 Link to model Files: <url>https://drive.google.com/file/d/1NQjai2o9rIqRwpoV6iCJ8sOamJs0_K1e/view?usp=sharing</url>
 
 
-Confusion Matrix as well as score on dataset:
+# Confusion Matrix as well as score on dataset:
 
 ![Alt text](Images/confusion_matrix.png?raw=true "Confusion Matrix Transfer Model: ")
+
+
+# Loss and Accuracy Per Epoch:
+
+![Alt text](Images/data_plot.png?raw=true "Loss and Accuracy Graphs: ")
+
+# Test Image Batch:
+
+![Alt text](Images/test_images.png?raw=true "Test Images: ")
+
+Green means Passed, Red for Fail
