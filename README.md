@@ -33,11 +33,11 @@ The features computed by ResNet is average pooled and passed into two fully conn
 ![Alt text](Images/confusion_matrix2.png?raw=true "Confusion Matrix Transfer Model: ")
 
 
-# Loss and Accuracy Per Epoch:
+### Loss and Accuracy Per Epoch:
 
 ![Alt text](Images/data_plot2.png?raw=true "Loss and Accuracy Graphs: ")
 
-# Test Image Batch:
+### Test Image Batch:
 
 ![Alt text](Images/test_images2.png?raw=true "Test Images: ")
 
