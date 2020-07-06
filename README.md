@@ -8,3 +8,4 @@ Link to model Files: <url>https://drive.google.com/file/d/1NQjai2o9rIqRwpoV6iCJ8
 
 Confusion Matrix as well as score on dataset:
 
+![Alt text](Images/confusion_matrix.png?raw=true "Confusion Matrix Transfer Model: ")
