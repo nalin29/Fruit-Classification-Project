@@ -35,10 +35,10 @@ The features computed by ResNet is average pooled and passed into two fully conn
 
 # Loss and Accuracy Per Epoch:
 
-![Alt text](Images/data_plot.png2?raw=true "Loss and Accuracy Graphs: ")
+![Alt text](Images/data_plot2.png?raw=true "Loss and Accuracy Graphs: ")
 
 # Test Image Batch:
 
-![Alt text](Images/test_images.png2?raw=true "Test Images: ")
+![Alt text](Images/test_images2.png?raw=true "Test Images: ")
 
 Green means Passed, Red for Fail
